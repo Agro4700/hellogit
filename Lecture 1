@@ -1,0 +1,9 @@
+#include <vector> // header
+
+vector<char> l; //
+
+vector<int> v1 = {10, 14, 32, 65, 17} //Integers
+
+v.push_back('l');
+
+v1.pop_back();
